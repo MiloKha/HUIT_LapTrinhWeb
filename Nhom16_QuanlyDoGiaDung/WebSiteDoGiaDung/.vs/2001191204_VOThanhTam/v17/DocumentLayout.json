@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|d:\\nhom16_quanlydogiadung\\websitedogiadung\\websitebandogiadung\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\views\\site\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\views\\site\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\views\\shared\\_layoutsite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\views\\shared\\_layoutsite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\views\\module\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\views\\module\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\views\\module\\_homepost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\views\\module\\_homepost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\views\\module\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\views\\module\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\library\\xstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\library\\xstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\library\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\library\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\library\\modelnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\library\\modelnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\library\\modelcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\library\\modelcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\library\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\library\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\library\\checkslug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\library\\checkslug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\websitebandogiadung\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanDoGiaDung\\WebsiteBanDoGiaDung.csproj|solutionrelative:websitebandogiadung\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\App_Start\\RouteConfig.cs*",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\App_Start\\RouteConfig.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:52:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Login.cshtml",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Module\\_Login.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Views\\Module\\_Login.cshtml",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Module\\_Login.cshtml",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Views\\Module\\_Login.cshtml",
+              "ViewState": "AQIAACkBAAAAAAAAAAAAALoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2022-12-25T02:51:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Controllers\\ModuleController.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Controllers\\ModuleController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:24.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Module\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Views\\Module\\_Header.cshtml",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Module\\_Header.cshtml",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Views\\Module\\_Header.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2022-12-25T02:51:24.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutSite.cshtml",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Shared\\_LayoutSite.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Views\\Shared\\_LayoutSite.cshtml",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Shared\\_LayoutSite.cshtml",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Views\\Shared\\_LayoutSite.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2022-12-25T02:51:24.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Site\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Views\\Site\\Contact.cshtml",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Site\\Contact.cshtml",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Views\\Site\\Contact.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2022-12-25T02:51:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\Notification.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Library\\Notification.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\Notification.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Library\\Notification.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XString.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\XString.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Library\\XString.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\XString.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Library\\XString.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_HomePost.cshtml",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Module\\_HomePost.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Views\\Module\\_HomePost.cshtml",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Views\\Module\\_HomePost.cshtml",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Views\\Module\\_HomePost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2022-12-25T02:51:25.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelNotification.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\ModelNotification.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Library\\ModelNotification.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\ModelNotification.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Library\\ModelNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelCart.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\ModelCart.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Library\\ModelCart.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\ModelCart.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Library\\ModelCart.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\MailHelper.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Library\\MailHelper.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\MailHelper.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Library\\MailHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckSlug.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\CheckSlug.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Library\\CheckSlug.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Library\\CheckSlug.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Library\\CheckSlug.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\SiteController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Controllers\\SiteController.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\SiteController.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Controllers\\SiteController.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Web.config",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Web.config",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2022-12-25T02:51:25.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanDoGiaDung\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Nhom16_QuanlyDoGiaDung\\WebSiteDoGiaDung\\WebsiteBanDoGiaDung\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebsiteBanDoGiaDung\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-25T02:51:25.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
